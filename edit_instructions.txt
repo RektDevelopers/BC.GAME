@@ -1,0 +1,12 @@
+Sensitive File Edit Instructions
+-----------------------------------
+
+
+File: storage/dotenv-editor/backups/.env.backup_2023_12_24_214725
+Action: Open this file and remove any sensitive information, such as API keys, secrets, or credentials.
+
+File: storage/dotenv-editor/backups/.env.backup_2024_02_26_142026
+Action: Open this file and remove any sensitive information, such as API keys, secrets, or credentials.
+
+Once all sensitive data is removed, commit the changes and force-push to update the repository.
+
